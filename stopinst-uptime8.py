@@ -1,5 +1,4 @@
 import boto3
-import dateutil.parser
 import datetime
 
 ec2=boto3.resource('ec2')
